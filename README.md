@@ -1,7 +1,6 @@
 # leaflet-challenge  
-Screenshots of My Maps:
-Standar - https://github.com/dmilestone/leaflet-challenge/blob/master/ScreenshotofMyMap.png
-Dark Layer - https://github.com/dmilestone/leaflet-challenge/blob/master/ScreenshotofMyMap_DarkLayer.png
+Screenshot of Final Map: https://github.com/dmilestone/leaflet-challenge/blob/master/ScreenshotofMyMap.png
+Screenshot of Dark Layer: https://github.com/dmilestone/leaflet-challenge/blob/master/ScreenshotofMyMap_DarkLayer.png
 
 Leaflet Homework - Visualizing Data with Leaflet
 
